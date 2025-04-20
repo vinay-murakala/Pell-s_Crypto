@@ -14,8 +14,8 @@ A Python application that implements a hybrid encryption system using standard R
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vinay-murakala/Pell's_Crypto.git
-   cd Pell's_Crypto
+   git clone https://github.com/vinay-murakala/Pells_Crypto.git
+   cd Pells_Crypto
    ```
 
 2. Create a virtual environment and activate it:
@@ -64,7 +64,7 @@ flake8 src tests
 ## Project Structure
 
 ```
-Pell's_Crypto/
+Pells_Crypto/
 ├── .github/workflows/ci.yml       # GitHub Actions CI pipeline
 ├── src/                           # Source code
 │   ├── __init__.py
@@ -90,7 +90,7 @@ Pell's_Crypto/
 
 1. **Create a Repository**:
 
-   - Go to GitHub and create a new repository named `Pell's_Crypto`.
+   - Go to GitHub and create a new repository named `Pells_Crypto`.
    - Initialize it without a README, .gitignore, or license (we’ll add these).
 
 2. **Push the Code**:
@@ -100,7 +100,7 @@ Pell's_Crypto/
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/vinay-murakala/Pell's_Crypto.git
+   git remote add origin https://github.com/vinay-murakala/Pells_Crypto.git
    git push -u origin main
    ```
 
