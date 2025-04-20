@@ -14,7 +14,7 @@ setup(
     description="A hybrid encryption app using Pell's equation and AES",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/vinay_murakala/Pell's_Crypto",
+    url="https://github.com/vinay-murakala/Pell's_Crypto",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
