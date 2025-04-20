@@ -14,7 +14,7 @@ A Python application that implements a hybrid encryption system using standard R
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vinay_murakala/Pell's_Crypto.git
+   git clone https://github.com/vinay-murakala/Pell's_Crypto.git
    cd Pell's_Crypto
    ```
 
@@ -100,7 +100,7 @@ Pell's_Crypto/
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/vinay_murakala/Pell's_Crypto.git
+   git remote add origin https://github.com/vinay-murakala/Pell's_Crypto.git
    git push -u origin main
    ```
 
